@@ -1,1 +1,2 @@
-i try something on my cours  
+somethings was written by me 
+this line was added by user
