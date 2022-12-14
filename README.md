@@ -1,2 +1,1 @@
-# repo1
-smart work
+somethings was written by me 
